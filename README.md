@@ -1,8 +1,12 @@
-## For Mac OS
+## Big Study For Mac OS
 
 #### Declaration
 
 This repository is deprecated in 2023.06 and only used for computer group assignment. If there is any offense, please contact us for deletion.
+
+It can only applied to Youth Shandong. 
+
+Thanks to all open source authors of the big study. 
 
 #### Testing Environment
 
@@ -57,4 +61,4 @@ please refer to https://github.com/ZWN2001/big-study-doge-script to fing openid.
 
 If you are using an ios device, it is recommended that you use an app called Stream to check your openid. In Sniff History->one History Session->click one Post query with suffix called queryPersonStudyRecord->Request->Request Body->Preview Form
 
-5. After everything is done, double click “run.command”, then you can finish the study.
+5. After everything is done, double click “run.command”, then you can enjoy the study with only double click!
