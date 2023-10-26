@@ -57,7 +57,7 @@ chmod +x run.command
 
 4 .Input your openid in config.json
 
-please refer to https://github.com/ZWN2001/big-study-doge-script to fing openid.
+please refer to https://github.com/ZWN2001/big-study-doge-script to find openid.
 
 If you are using an ios device, it is recommended that you use an app called Stream to check your openid. In Sniff History->one History Session->click one Post query with suffix called queryPersonStudyRecord->Request->Request Body->Preview Form
 
